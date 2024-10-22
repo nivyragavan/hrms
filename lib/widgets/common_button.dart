@@ -79,8 +79,7 @@ class CommonButton extends StatelessWidget {
                     ),
                   )
                       : ElevatedButton.styleFrom(
-                    primary: Colors.transparent,
-                    onPrimary: Colors.transparent,
+                    foregroundColor: Colors.transparent, backgroundColor: Colors.transparent,
                     shadowColor: Colors.transparent,
                     elevation: 0,
                   ),

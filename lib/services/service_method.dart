@@ -7,9 +7,10 @@ class ServiceMethods {
   Future searchCoordinateAddress(context, Position position) async {
     print("Service");
     String placeAddress = "";
+    String apiKey = "";
     String st1, st2, st3, st4;
     String url =
-        "https://maps.googleapis.com/maps/api/geocode/json?latlng=${position.latitude},${position.longitude}&key=AIzaSyDa3ndOn9kcJhiJqKBwi6D9WLwO_mH-_tM";
+        "https://maps.googleapis.com/maps/api/geocode/json?latlng=${position.latitude},${position.longitude}&key=$apiKey";
 
     final response = await LocationService().getRequest(url);
 
