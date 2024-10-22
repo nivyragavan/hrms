@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>925203152847-4vhc306ctnmvd8porpd7ot30uel1q4ms.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.925203152847-4vhc306ctnmvd8porpd7ot30uel1q4ms</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCod6JMdaQlKnErMKrsaFw8XcZqNbzBbT4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>925203152847</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dreamguys.dreamhrms</string>
+	<key>PROJECT_ID</key>
+	<string>dreamshrms-166eb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dreamshrms-166eb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:925203152847:ios:26dc1bd54f15357c189cba</string>
+</dict>
+</plist>
